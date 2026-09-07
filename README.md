@@ -40,44 +40,6 @@ I'm a passionate **Web Developer** who loves crafting beautiful, responsive, and
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rediatfasil&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rediatfasil&layout=compact&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rediatfasil&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rediatfasil&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-bg=true"/>
-</div>
-
-## 📈 Activity Graph
-
-[![Rediat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rediatfasil&theme=rogue)](https://github.com/rediatfasil)
-
-## 💼 Projects
-
-### 🌐 [Portfolio Website](https://github.com/rediatfasil/portfolio)
-A modern, responsive portfolio website built with React, Tailwind CSS, and custom animations.
-- **Tech**: React, Tailwind CSS, React Icons
-- **Features**: Scroll animations, typewriter effect, responsive design
-
-### 🛒 [E-Commerce Platform](https://github.com/rediatfasil/ecommerce)
-Full-stack online store with cart, payments, and admin dashboard.
-- **Tech**: React, Node.js, MongoDB, Stripe
-- **Features**: JWT authentication, real-time inventory, order tracking
-
-### 📋 [Task Management App](https://github.com/rediatfasil/task-manager)
-Collaborative task board with real-time updates and team features.
-- **Tech**: React, Firebase, Tailwind CSS
-- **Features**: Drag-and-drop, team collaboration, activity logs
-
 ## 📫 Connect With Me
 
 <div align="center">
